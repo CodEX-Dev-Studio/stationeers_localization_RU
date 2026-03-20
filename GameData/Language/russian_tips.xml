@@ -1,0 +1,50 @@
+﻿<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>RU</Code>
+  <GameTip>
+    <String>Нажмите {KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot}, {KEY:UniformSlot} или {KEY:ToolBeltSlot}, чтобы переключаться между вариантами взаимодействия и слотами для любой надетой вами вещи со слотами. Удерживайте, чтобы обменять предмет между этим слотом и вашей активной рукой.</String>
+    <String>Нажатие {KEY:ToggleHandPower} или {KEY:SecondaryAction} включает/выключает питание предметов в вашей руке.</String>
+    <String>Нажмите {KEY:ToggleLight}, чтобы включить/выключить свет на вашем {THING:ItemSpaceHelmet}.</String>
+    <String>Нажмите {KEY:EmoteWave}, чтобы ваш персонаж помахал другим станцинерам.</String>
+    <String>Нажмите {KEY:Jetpack}, чтобы включить/выключить ваш {THING:ItemSpacepack}.</String>
+    <String>Нажмите {KEY:ToggleUI}, чтобы включить/выключить пользовательский интерфейс для создания скриншотов или видео.</String>
+	<String>Нажмите {KEY:Ascend}, чтобы взлететь вверх, когда ваш {THING:ItemSpacepack} включен. Нажмите {KEY:Descend}, чтобы снизиться.</String>
+	<String>Нажатие {KEY:InventorySelect} переключает между слотами инвентаря и вашей активной рукой.</String>
+	<String>Нажатие {KEY:Drop} выбрасывает то, что у вас в руке. Удерживание {KEY:Drop} бросает это. Чем дольше держите, тем дальше бросите.</String>
+	<String>Нажатие {KEY:SwapHands} меняет вашу активную руку. Нажмите {KEY:ActiveHandSlot}, чтобы переключать варианты взаимодействия с предметом в вашей активной руке.</String>
+	<String>Нажмите {KEY:Internals}, чтобы быстро открыть или закрыть ваш {THING:ItemSpaceHelmet}.</String>
+	<String>Нажмите {KEY:Chatting}, чтобы начать чат с другими игроками.</String>
+	<String>Нажмите {KEY:RotateLeft}, чтобы повернуть курсор строительства влево, {KEY:RotateRight} — вправо, {KEY:RotateUp} — вверх, {KEY:RotateDown} — вниз, {KEY:RotateRollLeft} — для крена влево, или {KEY:RotateRollRight} — для крена вправо.</String>
+	<String>Космос не так пуст, как кажется.</String>
+	<String>Поместите стопку {THING:ItemIronOre} в запитанную {THING:StructureArcFurnace}, чтобы выплавить {THING:ItemIronIngot}.</String>
+	<String>Поместите {THING:MotherboardLogic} в {THING:StructureComputer}, чтобы включить логику с помощью ИС-чипа. Вы сможете добавлять условия и действия, управляющие состоянием устройств в той же сети данных.</String>
+	<String>Изменяя количество чего-либо с помощью кнопки в мире, удерживайте {KEY:QuantityModifier} во время нажатия, чтобы использовать меньшие шаги.</String>
+	<String>Используйте {THING:ItemKitLogicInputOutput}, чтобы создать {THING:StructureLogicReader} или {THING:StructureLogicWriter}. Считыватели позволяют вам считывать значения с других устройств, а записыватели — изменять значения на устройствах. В сочетании с математическими блоками можно создавать чрезвычайно сложные автоматические системы.</String>
+	<String>Используйте {THING:ItemKitLogicInputOutput}, чтобы создать {THING:StructureLogicBatchReader} или {THING:StructureLogicBatchWriter}. Считыватели позволяют вам считывать значения со всей группы других устройств, а записыватели — изменять значения на целых группах других устройств.</String>
+	<String>Используйте {THING:StructureRecycler}, чтобы превращать ненужные вещи в пригодные для использования реагенты. Пропустите полученную {THING:ItemReagentMix} через {THING:StructureCentrifuge}, чтобы превратить ее обратно в руду, готовую для {THING:StructureFurnace}.</String>
+	<String>Используйте {THING:StructureHydraulicPipeBender} для изготовления атмосферных предметов, таких как {THING:ItemKitAtmospherics}, который позволяет строить полезные машины, например {THING:StructureAirConditioner} или {THING:StructureFiltration}.</String>
+	<String>Чем сильнее поврежден ваш скафандр, тем менее эффективно он работает. Скотч может это исправить.</String>
+	<String>Чем сильнее поврежден ваш скафандр, тем менее эффективно он работает.</String>
+	<String>После того как оригинальный Справочник Станцинера схлопнулся в сингулярность, его заменила Станцпедия. Нажмите {KEY:Help}, чтобы открыть ее и получить подсказки в игре.</String>
+	<String>Ваши стартовые {THING:ItemEvaSuit} и {THING:ItemSpaceHelmet} загорятся при высоких температурах. Используйте {THING:ItemHardSuit} в опасных средах.</String>
+	<String>Программа Станцинеров была учреждена Управлением по развитию внеземных территорий для поддержки исследования Солнечной системы и за ее пределами.</String>
+	<String>Обращайте внимание на предупреждения вашего скафандра. Они могут помочь предотвратить катастрофу.</String>
+	<String>{THING:ItemHardBackpack} может нести больше предметов, но не умеет летать!</String>
+	<String>Чем сильнее поврежден ваш скафандр, тем менее эффективно он работает.</String>
+	<String>Если на вашей станции тоскливо, поднимите настроение мелодиями с {THING:StructureKlaxon} или создайте собственный сэмплер с помощью логики.</String>
+	<String>{THING:StructureHarvie} позволяет полностью автоматизировать посадку, выращивание и сбор растений.</String>
+	<String>Расширенные подсказки можно включить/выключить в меню Настроек.</String>
+	<String>Вы можете закрыть все открытые окна на экране сразу, нажав {KEY:HideAllWindows}.</String>
+	<String>{THING:ItemCrowbar} можно использовать, чтобы открывать обесточенные двери и контроллеры питания.</String>
+	<String>У {THING:ItemMiningDrill} можно переключить режим на 'Сглаживание', чтобы создавать ровные полы при копании.</String>
+	<String>{THING:ItemWearLamp} можно использовать для освещения без необходимости надевать шлем.</String>
+	<String>Удерживая {KEY:MouseControl}, вы можете включить курсор мыши и перетаскивать предметы в инвентарь и из него, или между слотами.</String>
+	<String>Базовый космический шлем изолирует Станцинеров от всего, от жесткого вакуума до странных запахов готовки.</String>
+	<String>Физика — твой друг. Пока нет.</String>
+	<String>Регулятор фрикционного сцепления — это биротационная модель с колоннообразным уни-хватом. Это не просто отвертка.</String>
+	<String>Это на самом деле не 'молоко', а запатентованный Agrizero синтез {THING:ItemSoyOil} и {THING:ItemFern}, деликатно смешанных в {THING:ApplianceChemistryStation}.</String>
+	<String>Запрещенные на Земле после Чэндуского инцидента, ядерные элементы питания Norsec нашли новый и гораздо менее озабоченный безопасностью рынок за пределами Земли.</String>
+	<String>Проголодались? Злаковые батончики компактны, питательны и освежающе слаборадиоактивны.</String>
+	<String>Надоело менять обычные фильтры? Средние и тяжелые фильтры служат в 5 и 20 раз дольше, но они дороже.</String>
+	<String>Осуществил перевод CodEX Dev</String>
+  </GameTip>
+</Language>

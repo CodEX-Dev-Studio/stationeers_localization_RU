@@ -2,10 +2,10 @@
 About/
 
 # Игнорировать указанные файлы
-SPDAOverride.xml
-english_tooltips.xml
-english_tips.xml
-english_keys.xml
-english_help.xml
-english.xml
-en.resx
+GameData/Language/SPDAOverride.xml
+GameData/Language/english_tooltips.xml
+GameData/Language/english_tips.xml
+GameData/Language/english_keys.xml
+GameData/Language/english_help.xml
+GameData/Language/english.xml
+GameData/Language/en.resx

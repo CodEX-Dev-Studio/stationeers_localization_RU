@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Game-Stationeers-blue?style=for-the-badge&logo=steam" alt="Stationeers">
   <img src="https://img.shields.io/badge/Version-v0.2.6217.27046-brightgreen?style=for-the-badge" alt="Game version">
-  <img src="https://img.shields.io/badge/Translation-v0.1.4-orange?style=for-the-badge" alt="Translation version">
+  <img src="https://img.shields.io/badge/Translation-v0.1.6-orange?style=for-the-badge" alt="Translation version">
 </p>
 
 # 🚀 Stationeers Russian Localization / Локализация Stationeers на русский язык

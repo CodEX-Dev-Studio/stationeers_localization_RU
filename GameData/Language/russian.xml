@@ -893,7 +893,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ImGuiCircuitboardAirlockControl</Key>
-      <Value>Плата (Управление шлюзом (Экспериментальный))</Value>
+      <Value>Плата (Управление шлюзом (Эксперимент))</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardCameraDisplay</Key>
@@ -1364,7 +1364,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemDisposableBatteryCharger</Key>
-      <Value>Одноразовое зарядное устройство для АКБ</Value>
+      <Value>Одноразовое зарядное устройство</Value>
       <Description>Расходная батарея, которая заряжает аккумулятор вашего костюма. При использовании на HEM-дроиде зарядит его внутреннюю батарею.</Description>
     </RecordThing>
     <RecordThing>
@@ -1604,7 +1604,7 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeDigitalValve</Key>
-      <Value>Набор (Цифровой клапан)</Value>
+      <Value>Набор (Электрический клапан)</Value>
       <Description>Этот комплект создает {THING:StructureDigitalValve}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1639,22 +1639,22 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeValve</Key>
-      <Value>Набор (Трубный клапан)</Value>
+      <Value>Набор (Газовый вентиль)</Value>
       <Description>Этот комплект создает {THING:StructureValve}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeVolumePump</Key>
-      <Value>Набор (Объемный насос)</Value>
+      <Value>Набор (Газовый компрессор)</Value>
       <Description>Этот комплект создает {THING:StructureVolumePump}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeValve</Key>
-      <Value>Набор (Клапан жидкостной трубы)</Value>
+      <Value>Набор (Жидкостный вентиль)</Value>
       <Description>Этот комплект создает {THING:StructureLiquidValve}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPowerConnector</Key>
-      <Value>Набор (Разъем питания)</Value>
+      <Value>Набор (Коннектор питания)</Value>
       <Description>Этот комплект создает {THING:StructurePowerConnector}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1699,13 +1699,13 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemSpaceHelmet</Key>
-      <Value>Космический шлем</Value>
+      <Value>Шлем</Value>
       <Description>Базовый космический шлем защищает {LINK:Stationeers;Станционеров} от всего: от жесткого вакуума до странных запахов готовки. Обеспечивая контролируемую, пригодную для дыхания атмосферу, он оснащен встроенным светильником, питающимся от вашего {THING:ItemEvaSuit} {THING:ItemBatteryCell}.
 Он также имеет функцию блокировки/разблокировки, чтобы избежать случайного открытия, а также функцию продувки для удаления и замены внутренней атмосферы. Если поврежден, используйте {THING:ItemDuctTape}, чтобы починить его, или покрасьте в любой цвет по вашему желанию с помощью {THING:AppliancePaintMixer}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSpacepack</Key>
-      <Value>Космический ранец</Value>
+      <Value>Реактивный ранец</Value>
       <Description>Базовый {LINK:CHAC;CHAC} космический ранец «технически» не реактивный ранец, это газовый двигатель. Он может работать на любом газе, при условии, что внутреннее давление {LINK:AtmosphericsPage;баллона} выше, чем внешнее атмосферное давление. Если внешнее давление выше, космический ранец не будет функционировать.
 Незаменим для строительства, добычи и общего передвижения, он имеет десять слотов для хранения и позволяет {LINK:Stationeers;Станционерам} летать со скоростью 3 м/с, по сравнению с более мощным {THING:ItemJetpackBasic} или {THING:ItemHardJetpack}. Регулировка тяги изменяет скорость ускорения, а активация стабилизатора заставляет ранец зависать при достижении заданной высоты.
 ИСПОЛЬЗОВАНИЕ: «J» для активации; «пробел» для полета вверх; «левый ctrl» для спуска; и «WASD» для движения.</Description>
@@ -1798,12 +1798,12 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemTankConnector</Key>
-      <Value>Набор (Соединитель баллона)</Value>
+      <Value>Набор (Коннектор газового баллона)</Value>
       <Description>Этот комплект создает {THING:StructureTankConnector}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemTankConnectorLiquid</Key>
-      <Value>Набор (Соединитель жидкостного баллона)</Value>
+      <Value>Набор (Коннектор жидкостного баллона)</Value>
       <Description>Этот комплект создает {THING:StructureTankConnectorLiquid}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1945,7 +1945,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureBackPressureRegulator</Key>
-      <Value>Регулятор обратного давления</Value>
+      <Value>Регулятор давления "до себя"</Value>
       <Description>В отличие от {THING:StructurePressureRegulator}, который закрывается, когда давление на входе превышает заданное значение, регулятор обратного давления открывается, когда давление на входе достигает заданного значения.</Description>
     </RecordThing>
     <RecordThing>
@@ -2000,25 +2000,25 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner3</Key>
-      <Value>Кабель (3-ходовой угловой)</Value>
+      <Value>Кабель (3-конечный)</Value>
       <Description>Несущий мощность и данные, кабель стал символом инноваций, независимости и гибкости жизни {LINK:Stationeers;Станционера} — настолько необходимый, что {LINK:ODA;ODA} присвоила ему официальный статус {LINK:ToolPage;«инструмента»} во время 3-й Десятилетней конференции Станционеров по солнечной энергии.
 Обычная катушка имеет максимальную мощность 5 кВт. Для более мощных приложений используйте {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction</Key>
-      <Value>Кабель (Соединение)</Value>
+      <Value>Кабель (Т-образный)</Value>
       <Description>Несущий мощность и данные, кабель стал символом инноваций, независимости и гибкости жизни {LINK:Stationeers;Станционера} — настолько необходимый, что {LINK:ODA;ODA} присвоила ему официальный статус {LINK:ToolPage;«инструмента»} во время 3-й Десятилетней конференции Станционеров по солнечной энергии.
 Обычная катушка имеет максимальную мощность 5 кВт. Для более мощных приложений используйте {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction4</Key>
-      <Value>Кабель (4-ходовое соединение)</Value>
+      <Value>Кабель (Х-образный)</Value>
       <Description>Несущий мощность и данные, кабель стал символом инноваций, независимости и гибкости жизни {LINK:Stationeers;Станционера} — настолько необходимый, что {LINK:ODA;ODA} присвоила ему официальный статус {LINK:ToolPage;«инструмента»} во время 3-й Десятилетней конференции Станционеров по солнечной энергии.
 Обычная катушка имеет максимальную мощность 5 кВт. Для более мощных приложений используйте {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6</Key>
-      <Value>Кабель (6-ходовое соединение)</Value>
+      <Value>Кабель (6-конечный)</Value>
       <Description>Несущий мощность и данные, кабель стал символом инноваций, независимости и гибкости службы {LINK:Stationeers;Станционера} — настолько необходимый, что {LINK:ODA;ODA} присвоила ему официальный статус {LINK:ToolPage;«инструмента»} во время 3-й Десятилетней конференции Станционеров по солнечной энергии.
 Обычная катушка имеет максимальную мощность 5 кВт. Для более мощных приложений используйте {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
@@ -2164,13 +2164,13 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureConsoleDual</Key>
-      <Value>Двойная консоль</Value>
+      <Value>Консоль (Раздельные порты)</Value>
       <Description>Этот блок управления управляет такими устройствами, как {THING:StructureActiveVent}, {THING:StructureGasSensor}, {THING:StructureCompositeDoor} и другими, в зависимости от того, какая {LINK:LogicPage;плата} вставлена в устройство. Он имеет отдельные порты данных и питания.
 Готовая консоль отображает все устройства, подключенные к текущей сети питания. Любые устройства, не связанные с установленной платой, будут затемнены и неработоспособны. Консоли блокируются после извлечения {THING:ItemDataDisk}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureConsoleMonitor</Key>
-      <Value>Монитор консоли</Value>
+      <Value>Консоль (Монитор)</Value>
       <Description>Этот блок управления управляет такими устройствами, как {THING:StructureActiveVent}, {THING:StructurePassiveVent}, {THING:StructureGasSensor}, {THING:ItemSecurityCamera} и {THING:StructureCompositeDoor}, в зависимости от того, какая {LINK:LogicPage;плата} вставлена в устройство. Он имеет общий порт данных/питания и очаровательный наклонный интерфейс.
 Готовая консоль отображает все устройства, подключенные к текущей сети питания. Любые устройства, не связанные с установленной платой, будут затемнены и неработоспособны. Консоли блокируются после извлечения {THING:ItemDataDisk}.</Description>
     </RecordThing>
@@ -2221,7 +2221,7 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureDigitalValve</Key>
-      <Value>Цифровой клапан</Value>
+      <Value>Электрический клапан</Value>
       <Description>Цифровой клапан позволяет {LINK:Stationeers;Станционерам} создавать {LINK:LogicPage;управляемые логикой} клапаны и трубопроводные сети.</Description>
     </RecordThing>
     <RecordThing>
@@ -2258,13 +2258,13 @@
     </RecordThing>
     <RecordThing>
       <Key>StructureFrameCorner</Key>
-      <Value>Стальной каркас (Угловой)</Value>
+      <Value>Стальной каркас (Угол)</Value>
       <Description>Более прочный, чем {THING:StructureFrameIron}, стальной каркас также предлагает несколько вариантов для более сложных решетчатых конструкций. 
 Немного терпения и маневрирования, готический силуэт углового каркаса позволяет создавать стрельчатые арки и даже более амбициозную архитектуру, хотя они не являются герметичными и на них нельзя строить.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureFrameSide</Key>
-      <Value>Стальной каркас (Боковой)</Value>
+      <Value>Стальной каркас (Склон)</Value>
       <Description>Более прочный, чем {THING:StructureFrameIron}, стальной каркас также обеспечивает варианты для более сложных конструкций.</Description>
     </RecordThing>
     <RecordThing>
@@ -2337,8 +2337,8 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveVentValve</Key>
-      <Value>Пассивный вентилятор (Клапан)</Value>
-      <Description>Пассивные вентиляторы (Клапан) позволяют газам перемещаться в трубопроводные сети и из них, которые являются закрытыми системами, если только они не подключены к устройству или конструкции. Пассивные вентиляторы не имеют питания, но позволяют пользователю выбирать, когда позволять газам в закрытом пространстве смешиваться внутри трубопроводной сети.</Description>
+      <Value>Пассивный вентилятор (Вентиль)</Value>
+      <Description>Пассивные вентиляторы (Вентиль) позволяют газам перемещаться в трубопроводные сети и из них, которые являются закрытыми системами, если только они не подключены к устройству или конструкции. Пассивные вентиляторы не имеют питания, но позволяют пользователю выбирать, когда позволять газам в закрытом пространстве смешиваться внутри трубопроводной сети.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeAnalysizer</Key>
@@ -2353,22 +2353,22 @@
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction</Key>
-      <Value>Труба (Крестовое соединение)</Value>
+      <Value>Труба (Х-образная)</Value>
       <Description>Вы можете улучшить эту трубу до {THING:StructureInsulatedPipeCrossJunction}, используя {THING:ItemKitInsulatedPipe} и {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction3</Key>
-      <Value>Труба (3-ходовое соединение)</Value>
+      <Value>Труба (3-конечная)</Value>
       <Description>Вы можете улучшить эту трубу до {THING:StructureInsulatedPipeCrossJunction3}, используя {THING:ItemKitInsulatedPipe} и {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction5</Key>
-      <Value>Труба (5-ходовое соединение)</Value>
+      <Value>Труба (5-конечная)</Value>
       <Description>Вы можете улучшить эту трубу до {THING:StructureInsulatedPipeCrossJunction5}, используя {THING:ItemKitInsulatedPipe} и {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction6</Key>
-      <Value>Труба (6-ходовое соединение)</Value>
+      <Value>Труба (6-конечная)</Value>
       <Description>Вы можете улучшить эту трубу до {THING:StructureInsulatedPipeCrossJunction6}, используя {THING:ItemKitInsulatedPipe} и {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
@@ -8602,12 +8602,12 @@ OGRE может быть подключен к транспортной сист
     </RecordThing>
     <RecordThing>
       <Key>StructurePortablesConnector</Key>
-      <Value>Коннектор переносных устройств</Value>
+      <Value>Коннектор резервуара</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPortablesConnector</Key>
-      <Value>Набор (Коннектор переносных устройств)</Value>
+      <Value>Набор (Коннектор резервуара)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -8642,12 +8642,12 @@ OGRE может быть подключен к транспортной сист
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketTransformerSmall</Key>
-      <Value>Трансформатор малый (Ракетный)</Value>
+      <Value>Трансформатор (Ракетный (Малый))</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRocketTransformerSmall</Key>
-      <Value>Набор (Трансформатор малый (Ракетный))</Value>
+      <Value>Набор Трансформатор (Ракетный (Малый))</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -22951,7 +22951,7 @@ Norsec была официально признана невиновной в к
     </Record>
     <Record>
       <Key>Space</Key>
-      <Value>Пробел</Value>
+      <Value>Space</Value>
     </Record>
     <Record>
       <Key>Exclaim</Key>
@@ -22979,7 +22979,7 @@ Norsec была официально признана невиновной в к
     </Record>
     <Record>
       <Key>Quote</Key>
-      <Value>'</Value>
+      <Value>"</Value>
     </Record>
     <Record>
       <Key>LeftParen</Key>
@@ -23063,7 +23063,7 @@ Norsec была официально признана невиновной в к
     </Record>
     <Record>
       <Key>Less</Key>
-      <Value>&lt;</Value>
+      <Value>Less</Value>
     </Record>
     <Record>
       <Key>Equals</Key>
@@ -23071,7 +23071,7 @@ Norsec была официально признана невиновной в к
     </Record>
     <Record>
       <Key>Greater</Key>
-      <Value>></Value>
+      <Value>Greater</Value>
     </Record>
     <Record>
       <Key>Question</Key>
@@ -23095,7 +23095,7 @@ Norsec была официально признана невиновной в к
     </Record>
     <Record>
       <Key>Caret</Key>
-      <Value>^</Value>
+      <Value>Caret</Value>
     </Record>
     <Record>
       <Key>Underscore</Key>
@@ -23231,43 +23231,43 @@ Norsec была официально признана невиновной в к
     </Record>
     <Record>
       <Key>Keypad0</Key>
-      <Value>Кл. 0</Value>
+      <Value>Keypad0</Value>
     </Record>
     <Record>
       <Key>Keypad1</Key>
-      <Value>Кл. 1</Value>
+      <Value>Keypad1</Value>
     </Record>
     <Record>
       <Key>Keypad2</Key>
-      <Value>Кл. 2</Value>
+      <Value>Keypad2</Value>
     </Record>
     <Record>
       <Key>Keypad3</Key>
-      <Value>Кл. 3</Value>
+      <Value>Keypad3</Value>
     </Record>
     <Record>
       <Key>Keypad4</Key>
-      <Value>Кл. 4</Value>
+      <Value>Keypad4</Value>
     </Record>
     <Record>
       <Key>Keypad5</Key>
-      <Value>Кл. 5</Value>
+      <Value>Keypad5</Value>
     </Record>
     <Record>
       <Key>Keypad6</Key>
-      <Value>Кл. 6</Value>
+      <Value>Keypad6</Value>
     </Record>
     <Record>
       <Key>Keypad7</Key>
-      <Value>Кл. 7</Value>
+      <Value>Keypad7</Value>
     </Record>
     <Record>
       <Key>Keypad8</Key>
-      <Value>Кл. 8</Value>
+      <Value>Keypad8</Value>
     </Record>
     <Record>
       <Key>Keypad9</Key>
-      <Value>Кл. 9</Value>
+      <Value>Keypad9</Value>
     </Record>
     <Record>
       <Key>KeypadPeriod</Key>

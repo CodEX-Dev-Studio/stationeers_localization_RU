@@ -32,7 +32,7 @@
     </Record>
     <Record>
       <Key>Space</Key>
-      <Value>Пробел</Value>
+      <Value>Space</Value>
     </Record>
     <Record>
       <Key>Exclaim</Key>
@@ -40,7 +40,7 @@
     </Record>
     <Record>
       <Key>DoubleQuote</Key>
-      <Value>&quot;</Value>
+      <Value>"</Value>
     </Record>
     <Record>
       <Key>Hash</Key>
@@ -140,7 +140,7 @@
     </Record>
     <Record>
       <Key>Less</Key>
-      <Value>Меньше</Value>
+      <Value>Less</Value>
     </Record>
     <Record>
       <Key>Equals</Key>
@@ -148,7 +148,7 @@
     </Record>
     <Record>
       <Key>Greater</Key>
-      <Value>Больше</Value>
+      <Value>Greater</Value>
     </Record>
     <Record>
       <Key>Question</Key>
@@ -160,7 +160,7 @@
     </Record>
     <Record>
       <Key>LeftBracket</Key>
-      <Value>Left Bracket</Value>
+      <Value>[</Value>
     </Record>
     <Record>
       <Key>Backslash</Key>
@@ -377,19 +377,19 @@
     </Record>
     <Record>
       <Key>UpArrow</Key>
-      <Value>Вверх</Value>
+      <Value>Up</Value>
     </Record>
     <Record>
       <Key>DownArrow</Key>
-      <Value>Вниз</Value>
+      <Value>Down</Value>
     </Record>
     <Record>
       <Key>RightArrow</Key>
-      <Value>Вправо</Value>
+      <Value>Right</Value>
     </Record>
     <Record>
       <Key>LeftArrow</Key>
-      <Value>Влево</Value>
+      <Value>Left</Value>
     </Record>
     <Record>
       <Key>Insert</Key>
@@ -485,51 +485,51 @@
     </Record>
     <Record>
       <Key>RightShift</Key>
-      <Value>Прав. Shift</Value>
+      <Value>Right Shift</Value>
     </Record>
     <Record>
       <Key>LeftShift</Key>
-      <Value>Лев. Shift</Value>
+      <Value>Left Shift</Value>
     </Record>
     <Record>
       <Key>RightControl</Key>
-      <Value>Прав. Ctrl</Value>
+      <Value>Right Control</Value>
     </Record>
     <Record>
       <Key>LeftControl</Key>
-      <Value>Лев. Ctrl</Value>
+      <Value>Left Control</Value>
     </Record>
     <Record>
       <Key>RightAlt</Key>
-      <Value>Прав. Alt</Value>
+      <Value>Right Alt</Value>
     </Record>
     <Record>
       <Key>LeftAlt</Key>
-      <Value>Лев. Alt</Value>
+      <Value>Left Alt</Value>
     </Record>
     <Record>
       <Key>RightApple</Key>
-      <Value>Прав. Apple</Value>
+      <Value>Right Apple</Value>
     </Record>
     <Record>
       <Key>RightCommand</Key>
-      <Value>Прав. Command</Value>
+      <Value>Right Command</Value>
     </Record>
     <Record>
       <Key>LeftCommand</Key>
-      <Value>Лев. Command</Value>
+      <Value>Left Command</Value>
     </Record>
     <Record>
       <Key>LeftApple</Key>
-      <Value>Лев. Apple</Value>
+      <Value>Left Apple</Value>
     </Record>
     <Record>
       <Key>LeftWindows</Key>
-      <Value>Лев. Windows</Value>
+      <Value>Left Windows</Value>
     </Record>
     <Record>
       <Key>RightWindows</Key>
-      <Value>Прав. Windows</Value>
+      <Value>Right Windows</Value>
     </Record>
     <Record>
       <Key>AltGr</Key>
@@ -557,31 +557,31 @@
     </Record>
     <Record>
       <Key>Mouse0</Key>
-      <Value>ЛКМ</Value>
+      <Value>Left Mouse</Value>
     </Record>
     <Record>
       <Key>Mouse1</Key>
-      <Value>ПКМ</Value>
+      <Value>Right Mouse</Value>
     </Record>
     <Record>
       <Key>Mouse2</Key>
-      <Value>СКМ</Value>
+      <Value>Middle Mouse</Value>
     </Record>
     <Record>
       <Key>Mouse3</Key>
-      <Value>&lt;size=40%&gt;Mouse&lt;/size&gt;3</Value>
+      <Value>Mouse3</Value>
     </Record>
     <Record>
       <Key>Mouse4</Key>
-      <Value>&lt;size=40%&gt;Mouse&lt;/size&gt;4</Value>
+      <Value>Mouse4</Value>
     </Record>
     <Record>
       <Key>Mouse5</Key>
-      <Value>&lt;size=40%&gt;Mouse&lt;/size&gt;5</Value>
+      <Value>Mouse5</Value>
     </Record>
     <Record>
       <Key>Mouse6</Key>
-      <Value>&lt;size=40%&gt;Mouse&lt;/size&gt;6</Value>
+      <Value>Mouse46</Value>
     </Record>
     <Record>
       <Key>JoystickButton0</Key>
